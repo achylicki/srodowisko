@@ -1,6 +1,6 @@
 # rozwiazania, drugie zajecia
 zad 1
-Napisac i uruchomic program w C, ktory wczytuje liczbe naturalnan
+Napisac i uruchomic program w C, ktory wczytuje liczbe naturalna n
 i drukuje wartosc sumy kwadratow 1 (kwadrat) + 2 (kwadrat)...+ n(kwadrat)
 
 ```c
