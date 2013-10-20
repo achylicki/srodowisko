@@ -19,16 +19,16 @@ int suma=0;
 ```
 Zad 2
 Napisac program obliczajacy wartosc kazdego z ponizszych wyrazen
-n1=5+3*8(2-3)
-n2=2%2+2*2 -2/2
-n3=2*4*(5+9
+n1=5+3*8/2-3
+n2=2%2+2*2-2/2
+n3=2*4*(5+9/2)
 
 ```c
 main (){
   int n1,n2,n3;
 
-  n1=5+3*8 /2-3;
-  n2=2%2+2*2=2/2;
+  n1=5+3*8/2-3;
+  n2=2%2+2*2-2/2;
   n3=2*4*(5+9/2);
 
   printf("wynik dzialania to %i\n %i\n %i\n", n1, n2, n3);
