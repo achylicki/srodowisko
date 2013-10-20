@@ -55,6 +55,7 @@ Napisac i uruchomic program w C ktory wypisuje kolejne potegi 2 nie przekraczaja
 a)uzywajac pliku for
 b) uzywajac pliku while
 
+```c
 int main (){
   int i;
   for(i=1;i<=2010;i=i*2)
@@ -66,6 +67,6 @@ printf("%i", i);
   i=i*2;
 }
 }
-
+```
 
 
